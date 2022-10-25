@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "oders-notify",
-    "slug": "oders-notify",
+    "name": "orders-notify",
+    "slug": "orders-notify",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
